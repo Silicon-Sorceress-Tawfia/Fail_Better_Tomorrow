@@ -25,13 +25,16 @@ This is a space for me to:
 If you ever feel sad or lost, come back to this repository. Maybe something I’ve shared here will make you feel a little better. We’re all on a journey, and this is mine.
 
 ---
+## My Daily Journey Logs
 
-## Structure of the Repository
+I document my daily experiences in the [**logs folder**](https://github.com/Silicon-Sorceress-Tawfia/Fail_Better_Tomorrow/tree/main/logs).  
+Each day is captured in a separate markdown file, covering:
+- What I did
+- How I felt
+- What I learned
+- A motivational quote for the day
 
-The repository will have:
-- **Daily logs**: Markdown files like `day1.md`, `day2.md`, etc.
-- **Motivational Quotes**: A collection of sayings or words that inspire me.
-- **Life Reflections**: Notes on what I learn about life as I go through this year.
+Feel free to browse through the logs to see my progress or gain inspiration for your own journey!
 
 ---
 
